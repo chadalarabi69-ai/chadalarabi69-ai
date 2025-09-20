@@ -29,7 +29,7 @@ Quick learner ⚡ | Programming fundamentals (Python, Java, C) 💻 | Interest i
 🌱 **Learning:** DSA, Web Development, System Administration, Security basics  
 💬 **Ask me about:** Programming, IT Security, System Integration  
 🌐 **Portfolio:** *Coming Soon*  
-📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/chadalarabi/) | [GitHub](https://github.com/chadalarabi69-ai) | [Email](mailto:chadalarabi69@gmail.com)  
+📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/chada-larabi)| [GitHub](https://github.com/chadalarabi69-ai) | [Email](mailto:chadalarabi69@gmail.com)  
 ## 💼 What I Do
 
 👩‍💻 **Programming**  
