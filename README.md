@@ -1,7 +1,7 @@
 ![banner](banner16.png)
 <div align="center">
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/chadalarabi/)  
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/chadal-arabi/)  
 [<img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/chadalarabi69-ai)  
 [<img src="https://img.shields.io/badge/email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:chadalarabi69@gmail.com)  
 
