@@ -44,12 +44,6 @@ Quick learner ⚡ | Programming fundamentals (Python, Java, C) 💻 | Interest i
 - Ability to configure and connect basic systems for effective integration  
 - **Continuously exploring new tools and enhancing my knowledge**  
 
-🔐 **IT Security**  
-- Strong foundation in **Cybersecurity concepts**  
-- Understanding of threats, vulnerabilities, and applying basic protection techniques  
-- Special interest in securing networks, systems, and protecting data  
-- **Expanding my expertise day by day through continuous learning and practice**  
-
 ## 🛠️ Technical Skills 
 
 <div align="center">
