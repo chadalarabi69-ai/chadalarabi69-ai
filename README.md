@@ -38,12 +38,6 @@ Quick learner ⚡ | Programming fundamentals (Python, Java, C) 💻 | Interest i
 - Practice of algorithms and problem-solving to strengthen technical and logical skills  
 - **Improving my abilities every day through practice and small projects**  
 
-🖥️ **System Integration**  
-- Practical understanding of networking and system administration (**Linux & Windows**)  
-- Knowledge of how IT infrastructures interact and work together  
-- Ability to configure and connect basic systems for effective integration  
-- **Continuously exploring new tools and enhancing my knowledge**  
-
 ## 🛠️ Technical Skills 
 
 <div align="center">
