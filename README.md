@@ -23,7 +23,7 @@
 I am a **Computer Science and Cybersecurity student** in my second year, passionate about **Programming, System Integration, and IT Security**. I enjoy learning new technologies, solving problems, and applying my skills in real projects.  
 
 ✅ **Strengths:**  
-Quick learner ⚡ | Programming fundamentals (Python, Java, C) 💻 | Interest in Web & App Development 📱 | Networking & System Administration 🌐 | Team-oriented & ambitious 🤝  
+Quick learner ⚡ | Programming fundamentals (Python, HTML, C) 💻 | Interest in Web & App Development 📱 | Networking & System Administration 🌐 | Team-oriented & ambitious 🤝  
 
 🔭 **Focus:** Software Development, Networking, Cybersecurity  
 🌱 **Learning:** DSA, Web Development, System Administration, Security basics  
@@ -33,7 +33,7 @@ Quick learner ⚡ | Programming fundamentals (Python, Java, C) 💻 | Interest i
 ## 💼 What I Do
 
 👩‍💻 **Programming**  
-- Knowledge of multiple programming languages (**Python, Java, C**)  
+- Knowledge of multiple programming languages (**Python,HTML,css, C**)  
 - Ability to write practical solutions with interest in **Web & Mobile Development**  
 - Practice of algorithms and problem-solving to strengthen technical and logical skills  
 - **Improving my abilities every day through practice and small projects**  
@@ -46,14 +46,9 @@ Quick learner ⚡ | Programming fundamentals (Python, Java, C) 💻 | Interest i
 
 ### 💻 Programming & Web Technologies  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 
 ### ☁️ Cloud & Databases  
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -85,10 +80,9 @@ Quick learner ⚡ | Programming fundamentals (Python, Java, C) 💻 | Interest i
 
 ## 🎪 My Unique Equipment  
 
-- **🧠 Knowledge**: Continuously building a strong foundation in IT, Cybersecurity, and Programming  
+- **🧠 Knowledge**: Continuously building a strong foundation in IT , and Programming  
 - **💻 Problem-Solving**: Using logic and creativity to tackle technical challenges  
-- **🐍 Programming**: Python, Java, C, and more as essential companions for development  
-- **🔐 Security Mindset**: Thinking critically about risks and how to protect digital systems  
+- **🐍 Programming**: Python, Mysql, C, and more as essential companions for development    
 - **🚀 Curiosity**: A never-ending drive to explore, learn, and grow every day  
 
 ## 🌟 Featured Projects  
@@ -139,9 +133,7 @@ Here are some highlights from my work:
 
 I'm always excited to collaborate on interesting projects, especially in:  
 - **Programming & Software Development**  
-- **System Integration**  
-- **Cybersecurity & IT Security**  
-- **Cloud Technologies**  
+- **Cybersecurity & IT Security** 
 - **Continuous Learning & Knowledge Sharing**  
 
 ### 📬 Get in Touch  
