@@ -14,7 +14,7 @@
   
 
   <!-- Typing SVG (لون #4adedd وخط برمجي) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=4adedd&background=00000000&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Programming;System+Integration;IT+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=4adedd&background=00000000&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Programming;IT+Security" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
